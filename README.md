@@ -1,6 +1,6 @@
 # Sudoku-Solver
-Use backtrack and constrain strategy to solve this problem
-with purely numpy 9x9x9 ndarray solution
+## Use backtrack and constrain strategy to solve this problem
+## with purely numpy 9x9x9 ndarray solution
 
 commonly, the 9x9 sudoku use 1-9 string to represent the possible numbers in each cells
 I choose a 9 length np.array to represent all the possible numbers from index 0 to 8
